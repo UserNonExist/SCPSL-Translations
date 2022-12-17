@@ -1,0 +1,74 @@
+ZOOM [amount]x
+ระดับการเข้าถึง [tier]
+EXP [current] / [next]
+ถึงระดับสูงสุดแล้ว
+ไม่มีกล้อง
+ไปที่: [camera] ([cost])
+พลังงานเสริมไม่พอ
+ETA: [time] วินาที
+ต้องการระดับสูงกว่านี้
+INVALID CAMERA
+ไม่สามารถใช้ประตูได้
+เปิดประตู ([cost])
+ปิดประตู ([cost])
+ล็อกประตู ([cost])
+ปลดล็อกประตู DOOR
+COOLDOWN ล็อกประตู
+พลังงานเสริม
+คุณกำลังถูกโจมตี!
+ปลดล็อกประตูทุกบาน (รวม [num] บาน)
+เปิดแผนที่ศูนย์วิจัย
+ปิด
+LIGHT CONTAINMENT ZONE
+HEAVY CONTAINMENT ZONE
+ENTRANCE ZONE
+SURFACE ZONE
+ดับไฟ ([cost])
+ไม่สามารถดับไฟห้องนี้ได้
+ถึงขีดจำกัดการดับไฟพร้อมกัน
+COOLDOWN ดับไฟห้อง
+ส่งลิฟท์ ([cost])
+LOCKDOWN ([cost])
+LOCKDOWN COOLDOWN
+ไม่มีประตูสำหรับการ LOCKDOWN
+ปิงตำแหน่ง ([cost])
+ถึงขีดจำกัดปิงได้สูงสุด
+เปลี่ยนกล้องล้มเหลว
+สัญญาณขาดหาย
+กำลังเชื่อมต่อใหม่ (ETA: [time]s)
+ช็อต TESLA GATE ([cost])
+COOLDOWN เปิดใช้งาน TESLA GATE
+$ปลดล็อกการเข้าถึงระดับ [tier]$
+ขีดจำกัด$พลังงานเสริม$เพิ่มขึ้นเป็น $[limit]$.
+ตอนนี้สามารถ$ดับไฟ$ได้ - กด $[key]$ เพื่อที่จะดับไฟ
+ขีดจำกัดการ$ดับไฟ$พร้อมกันเพิ่มเป็น $[number]$ ห้อง
+ตอนนี้สามารถ$LOCKDOWN$ได้ - กด $[key]$ เพื่อที่จะล็อกประตูทุกบานในห้อง
++[amount] EXP - คำสั่งแอดมิน
++[amount] EXP - การช่วยเหลือการกำจัด คลาส-ดี
++[amount] EXP - การช่วยเหลือการกำจัด นักวิจัย
++[amount] EXP - การช่วยเหลือการกำจัดเจ้าหน้าที่รักษาความปลอดภับ
++[amount] EXP - การช่วยเหลือการกำจัด Nine-Tailed Fox
++[amount] EXP - การช่วยเหลือการกำจัด Chaos Insurgency
++[amount] EXP - การช่วยเหลือการกำจัดมนุษย์
++[amount] EXP - เห็นการกำจัดของเพื่อนร่วมทีม
++[amount] EXP - การช่วยเหลือเพื่อนร่วมทีมไล่ล่า
++[amount] EXP - ปกป้องเพื่อนร่วมทีม
++[amount] EXP - ป้องกันการใช้งาน Micro H.I.D
+ฟีดกล้องออนไลน์
+ดับไฟทั้งโซน ([cost])
+ตอนนี้สามารถ$ดับไฟทั้งโซน$ได้ - อยู่ข้างชื่อโซนบนแมพศูนย์วิจัย
+COOLDOWN ดับไฟทั้งโซน
+ได้ดับไฟแล้ว
+ไม่สามารถดับไฟโซนนี้ได้
+สิ่งมีชีวิตทั้งหมด
+เป้าหมาย
+SCP SUBJECTS
+พลเรือน
+ทหาร
+ใช้ลำโพง
+ไม่สามารถใช้ลิฟท์ได้
+SCP-079 ไม่สามารถเดินไปไหนหรือโจมตีได้ แต่จะสามารถดูทุกอย่างด้วยการใช้กล้องวงจรปิดที่มีอยู่ในทุก ๆ ห้อง ความสามารถที่ใช้ได้ทั้งหมดอยู่ที่มุมขวาบนของ HUD
+Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
+Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
+Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
+Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. 
