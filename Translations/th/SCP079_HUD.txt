@@ -1,4 +1,4 @@
-ZOOM [amount]x
+ซูม [amount]x
 ระดับการเข้าถึง [tier]
 EXP [current] / [next]
 ถึงระดับสูงสุดแล้ว
@@ -13,11 +13,11 @@ INVALID CAMERA
 ปิดประตู ([cost])
 ล็อกประตู ([cost])
 ปลดล็อกประตู DOOR
-COOLDOWN ล็อกประตู
+คูลดาวน์ล็อกประตู
 พลังงานเสริม
 คุณกำลังถูกโจมตี!
 ปลดล็อกประตูทุกบาน (รวม [num] บาน)
-เปิดแผนที่ศูนย์วิจัย
+เปิดแผนที่ไซต์
 ปิด
 LIGHT CONTAINMENT ZONE
 HEAVY CONTAINMENT ZONE
@@ -26,10 +26,10 @@ SURFACE ZONE
 ดับไฟ ([cost])
 ไม่สามารถดับไฟห้องนี้ได้
 ถึงขีดจำกัดการดับไฟพร้อมกัน
-COOLDOWN ดับไฟห้อง
+คูลดาวน์ดับไฟห้อง
 ส่งลิฟท์ ([cost])
-LOCKDOWN ([cost])
-LOCKDOWN COOLDOWN
+ล็อคดาวน์ ([cost])
+ล็อคดาวน์ COOLDOWN
 ไม่มีประตูสำหรับการ LOCKDOWN
 ปิงตำแหน่ง ([cost])
 ถึงขีดจำกัดปิงได้สูงสุด
@@ -37,12 +37,12 @@ LOCKDOWN COOLDOWN
 สัญญาณขาดหาย
 กำลังเชื่อมต่อใหม่ (ETA: [time]s)
 ช็อต TESLA GATE ([cost])
-COOLDOWN เปิดใช้งาน TESLA GATE
+คูลดาวน์เปิดใช้งาน TESLA GATE
 $ปลดล็อกการเข้าถึงระดับ [tier]$
 ขีดจำกัด$พลังงานเสริม$เพิ่มขึ้นเป็น $[limit]$.
 ตอนนี้สามารถ$ดับไฟ$ได้ - กด $[key]$ เพื่อที่จะดับไฟ
 ขีดจำกัดการ$ดับไฟ$พร้อมกันเพิ่มเป็น $[number]$ ห้อง
-ตอนนี้สามารถ$LOCKDOWN$ได้ - กด $[key]$ เพื่อที่จะล็อกประตูทุกบานในห้อง
+ตอนนี้สามารถ$ล็อคดาวน์$ได้ - กด $[key]$ เพื่อที่จะล็อกประตูทุกบานในห้อง
 +[amount] EXP - คำสั่งแอดมิน
 +[amount] EXP - การช่วยเหลือการกำจัด คลาส-ดี
 +[amount] EXP - การช่วยเหลือการกำจัด นักวิจัย
@@ -56,19 +56,19 @@ $ปลดล็อกการเข้าถึงระดับ [tier]$
 +[amount] EXP - ป้องกันการใช้งาน Micro H.I.D
 ฟีดกล้องออนไลน์
 ดับไฟทั้งโซน ([cost])
-ตอนนี้สามารถ$ดับไฟทั้งโซน$ได้ - อยู่ข้างชื่อโซนบนแมพศูนย์วิจัย
-COOLDOWN ดับไฟทั้งโซน
+ตอนนี้สามารถ$ดับไฟทั้งโซน$ได้ - อยู่ข้างชื่อโซนบนแมพไซต์
+คูลดาวน์ดับไฟทั้งโซน
 ได้ดับไฟแล้ว
 ไม่สามารถดับไฟโซนนี้ได้
 สิ่งมีชีวิตทั้งหมด
 เป้าหมาย
-SCP SUBJECTS
+วัตถุ SCP
 พลเรือน
 ทหาร
 ใช้ลำโพง
 ไม่สามารถใช้ลิฟท์ได้
 SCP-079 ไม่สามารถเดินไปไหนหรือโจมตีได้ แต่จะสามารถดูทุกอย่างด้วยการใช้กล้องวงจรปิดที่มีอยู่ในทุก ๆ ห้อง ความสามารถที่ใช้ได้ทั้งหมดอยู่ที่มุมขวาบนของ HUD
-Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time. 
-Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter. 
+แทบจะทำลายไม่ได้:จะมีเครื่องปั่นไฟสามเครื่องในบริเวณเฮฟวี่คอนเทนเม้นท์ ถ้าทุกเครื่องถูกเปิดทำงานแล้ว คุณจะถูกกักกัน\nเครื่องปั่นไฟจะมีการนับถอยหลังที่คนอื่น ๆ จะหยุดได้ด้วยการกดปุ่ม "CANCEL" บนเครื่องปั่นไฟ
+การเข้าถึงที่ไม่จำกัด:คุณสามารถใช้ระบบที่มีอยู่ในไซต์เพื่อช่วยเหลือ SCP ตัวอื่น ๆ  ความสามารถที่ใช้ได้ทั้งหมดอยู่บนจอที่มุมขวาบนของคุณ ความสามารถนี้จะใช้พลังงานเสริม (AP) ซึ่งจะฟื้นตามเวลา 
+การเรียนรู้ที่ลึกซึ้ง:การช่วยเหลือการกำจัด หรือการทำประโยชน์ให้กับ SCP ตัวอื่น ๆ จะให้ค่าประสบการณ์คุณสำหรับการเข้าถึงระดับต่อไป ระดับการเข้าถึงใหม่จะให้ AP เพิ่ม และความสามารถใหม่
+เฝ้าดู:การที่อยู่ทุกที่และไม่อยู่สักที่ให้คุณได้มองในมุมมองพิเศษ คุณสามารถปิงตำแหน่ง ผู้คน และวัตถุที่น่าสนใจ ทำให้คุณได้ช่วยเหลือในการสังหารนี้

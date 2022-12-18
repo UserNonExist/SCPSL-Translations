@@ -1,39 +1,39 @@
-Press [key_attack] or [key_jump] to Lunge.
-Preview the voice (only you can hear this)
-LOCAL PREVIEW
-Remove the voice (hold)
-Play the voice (everyone can hear this)
-SCP-939 has killed you and has stolen your voice!
-If you do not wish your voice to be used, you can turn this feature off.
-Remember my choice
-Delete
-OK
-More information
-SCP-939 uses a mechanic where the last few seconds of your voice chat transmission is temporarily recorded. This can be played back by SCP-939 to lure out targets.\nThe recordings are automatically discarded if you leave the server, if SCP-939 dies, or upon round restart. Turning this feature off will remove all existing recordings of your transmissions.
-Cloud cannot be deployed at this position.
-Minimal Cloud size hasn't been reached. Hold the deploy key for longer.
-SCP-939 is blind, and sees through sound. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.
-Claw:Click to swipe your claw in a wide arc in front of you, ripping flesh and bone from your chosen victim. Whilst focusing, your primary attack will allow you to lunge at your prey. 
-Focus:Devoting your full energy to your senses, you can see prey from farther away, as well as being able to tell what type of prey they are, through the actions they perform. 
-Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.  
-With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans. 
-Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels. 
-Return
-Place Mimic Point
-Override position of Mimicry's sounds source
-Remove Mimic Point
-Make all sounds come from your current location
-Mimic Point set!
-Mimic Point removed!
-Mimic Point destroyed. You're out of range.
-Stolen Voices
-Play back your victims' voices
-Environmental Mimicry
-Mimic various sounds to lure out targets
-(Cooldown: [time]s)
-Footsteps
-Impersonation
-Shooting
-Other
-Previous Menu
-Next Menu
+กด [key_attack] หรือ [key_jump] เพื่อที่จะพุ่งใส่
+ลองฟังตัวอย่างของเสียงนี้ (มีแค่คุณที่ได้ยินเท่านั้น)
+ลองฟังตัวอย่าง
+ลบเสียงนี้ออก (กดค้าง)
+เปิดใช้เสียงนี้ (ทุกคนสามารถได้ยินเสียงนี้)
+SCP-939 ได้ฆ่าคุณและขโมยเสียงของคุณ!
+ถ้าคุณไม่ต้องการที่จะให้เสียงของคุณถูกใช้งาน คุณสามารถปิดระบบนี้ได้
+จำตัวเลือกของฉัน
+ลบออก
+โอเค
+ข้อมูลเพิ่มเติม
+SCP-939 ใช้กลไกที่จะบันทึกเสียงวินาทีสุดท้ายของคุณชั่วคราว เสียงนี้สามารถถูกเปิดได้โดย SCP-939 เพื่อที่จะล่อเหยื่อ\nเสียงนี้จะถูกลบเมื่อคุณออกจากเซิร์ฟเวอร์ เมื่อ SCP-939 ตาย หรือตอนรีสตาร์ทรอบ การปิดระบบนี้จะลบเสียงทั้งหมดของคุณที่ถูกบันทึกไว้
+ไม่สามารถใช้หมอกได้ตรงจุดนี้
+ขนาดของหมอกยังเล็กเกินไป กดปุ่มปล่อยหมอกค้างไว้
+SCP-939 นั้นตาบอด ซึ่งจะใช้เสียงในการสังเกตแทน\nมันจะคอยใช้จังหวะที่มนุษย์พลาด แล้วจะอาศัยการเดินที่เงียบสนิทและความเร็วที่น่าหวาดกลัวเพื่อเข้าไปจัดการมนุษย์
+กรงเล็บ:คลิกเพื่อที่จะฟันกรงเล็บของคุณ ฟันเนื้อและกระดูกจากเหยื่อของคุณ ในขณะที่โฟกัส การโจมตีหลักของคุณจะทำให้คุณพุ่งใส่หยื่อ
+โฟกัส:จากการถ่ายพลังของคุณไปที่การรับรู้ คุณสามารถมองเห็นเหยื่อได้จากระยะที่ไกลขึ้น และสามารถบอกได้ว่าเป็นเหยื่อประเภทไหน ผ่าการกระทำของพวกเขา
+หมอกกลืนความทรงจำ:เติมอากาศไปโดยแก๊สสารเคมีอันตราย ปล่อยออกไปในรัศมีที่กำหนดไว้จากระยะเวลาชาร์จ มนุษย์ที่สูดดมเข้าไปจะไม่สามารถรับรู้ถึง SCP-939 และไม่สามารถทำการกระทำบางอย่างได้ แต่ก็ระวังไว้  การโจมตีหรือถูกโจมตีนั้นจะบอกตำแหน่งของคุณในระยะเวลาสั้น ๆ
+ลอกเลียนแบบ:มนุษย์ที่คุณฆ่าสามารถพูดคำสุดท้ายออกมาได้ ทำให้คุณสามารถขโมยเสียงของพวกเขาและนำไปใช้ล่อเหยื่อได้ SCP-939 ยังสามารถที่จะเลียนเสียงพื้นฐานได้ เช่นเสียงเดินของมนุษย์
+ไวต่อการรับรู้:SCP-939 สามารถรับรู้ถึงความร้อนของสิ่งรอบตัวได้ แสดงโดยวงเล็ก ๆ ของการมองเห็นปกติ แต่นอกเหนือจากนี้ คุณต้องพึ่งเสียงในการที่จะตามล่าเหยื่อ เสียงยิ่งดังแค่ไหน คุณยิ่งสามารถรับรู้ได้ไกลมากขึ้น Stamina จะส่งผลกับระยะการมองเห็นของคุณ
+กลับ
+วางจุดจำลองเสียง
+เปลี่ยนตำแหน่งจุดจำลองเสียง
+ลบจุดจำลองเสียง
+ทำให้เสียงออกมาจากแตำแหน่งของคุณ
+ตั้งจุดจำลองเสียงสำเร็จ!
+ลบจุดจำลองเสียงสำเร็จ!
+จุดจำลองเสียงถูกทำลาย คุณอยู่นอกเขต
+เสียงที่ขโมยมา
+เล่นเสียงเหยื่อของคุณ
+เลียนเสียงสิ่งแวดล้อม
+เลียนเสียงหลายแบบเพื่อที่จะล่อเหยื่อ
+(คูลดาวน์: [time]วิ)
+เสียงเท้า
+การปลอมตัว
+การยิง
+อื่น ๆ
+เมนูก่อนหน้า
+เมนูถัดไป
