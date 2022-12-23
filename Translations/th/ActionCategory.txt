@@ -1,8 +1,8 @@
 ระบบการเล่น
 อาวุธ
 การเคลื่อนไหว
-Hotkeys
-Comms
+ปุ่มลัด
+การสื่อสาร
 System
 Unbindable
 SCP-079
